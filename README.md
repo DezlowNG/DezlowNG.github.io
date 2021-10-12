@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+<h1 align="center">Welcome to my website~ OwO</h1>
 
 <p align="center">
   <a href="https://vk.com/mtdru"><img src="https://user-images.githubusercontent.com/74720936/122591769-a446c680-d08d-11eb-9a2b-3ac2de6f1f7a.png" hspace="5"vspace="5"></a>
