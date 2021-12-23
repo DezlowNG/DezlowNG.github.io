@@ -1,0 +1,13 @@
+.dzbg {
+	-webkit-box-shadow: inset 0px -100px 100px rgba(0,0,0,5.0);
+	
+	line-height: 0;         /* ensure no space between bottom */
+		
+	display: inline-block;  /* don't go wider than image */
+}
+.dzbg img {
+	max-width: 100%;
+	height: auto;
+	position: relative;
+	z-index: -1;
+}
